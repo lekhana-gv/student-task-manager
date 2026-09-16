@@ -6,6 +6,7 @@ while True:
     print("2. View tasks")
     print("3. Delete task")
     print("4.Exit")
+    print("5.About")
 
     choice = input("Enter your choice: ")
 
