@@ -4,7 +4,7 @@ while True:
     print("\n--- Student Task Manager ---")
     print("1. Add task")
     print("2. View tasks")
-    print("3. Exit")
+    print("3. Delete task")
     print("4.Exit")
 
     choice = input("Enter your choice: ")
