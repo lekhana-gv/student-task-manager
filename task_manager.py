@@ -8,6 +8,7 @@ while True:
     print("4.Exit")
     print("5.About")
     print("6.Help")
+    print("7.Version 1.0")
 
     choice = input("Enter your choice: ")
 
